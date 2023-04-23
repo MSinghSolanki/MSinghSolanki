@@ -6,7 +6,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I completed my learning from [Masai School](https://www.masaischool.com/) on Front-End-development .\
 🌱 &nbsp;Still I'm on track for learning more about web-development, UI-design, and Back-end.\
 ✍️ &nbsp;In my free time, I spend quality time with family and friends.\
 ✉️ &nbsp;You can shoot me an email at mohitsinghsolanki8@gmail.com! I'll reply as soon as I can.\
