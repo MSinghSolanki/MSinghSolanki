@@ -32,21 +32,11 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sandeepKumarMurmu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sandeepKumarMurmu&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MSinghSolanki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MSinghSolanki&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-<br/>
-<br/>
-  <h1 align="center">My Works and Contributions</h1>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Shoppify;)](https://git.io/typing-svg)
-
-git-repo link : [https://github.com/sandeepKumarMurmu/shoppify](https://github.com/sandeepKumarMurmu/shoppify)
-    <br/>
-visit : [https://apna-shopping-app.vercel.app/](https://apna-shopping-app.vercel.app/)
-<br/>
 <br/>
 <br/>
 
