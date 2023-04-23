@@ -45,8 +45,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mohit-singh-solanki-32602922b/"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Murmu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mohitsinghsolanki8@gmail.com"><img src="https://img.shields.io/badge/-sandeep.16murmu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/kr_mohit_singh-solanki/"><img src="https://img.shields.io/badge/-sandeep.16murmu-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohit-singh-solanki-32602922b/"><img src="https://img.shields.io/badge/-mohit%20singh%20solanki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mohitsinghsolanki8@gmail.com"><img src="https://img.shields.io/badge/-mohitsinghsolanki8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/kr_mohit_singh-solanki/"><img src="https://img.shields.io/badge/-kr_mohit_singh-solanki-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
