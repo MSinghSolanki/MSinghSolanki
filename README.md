@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Mohit Singh Solanki [![GitHub followers](https://img.shields.io/github/followers/MSinghSolanki.svg?style=social&label=Followers)](https://github.com/MSinghSolanki?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=An+Enthusiastic+!+!+!;An+Aspiring+!+!+!;and+A+work+oriented;Front+End+Developer...;And+a+proud+Indian;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=An+Enthusiastic+!+!+!;An+Aspiring+!+!+!;and+A+work+oriented;Full+Stack+Developer...;And+a+proud+Indian;)](https://git.io/typing-svg)
 
 
 ### 👨🏻‍💻 &nbsp;About Me
