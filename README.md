@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **mohitsinghsolanki8@gmail.com**
 
+- Have a look at my<a href="https://my-protfolio-lime.vercel.app/" target="blank">protfolio </a> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohit singh solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit singh solanki" height="30" width="40" /></a>
