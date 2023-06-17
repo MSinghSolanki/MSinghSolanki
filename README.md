@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mohitsinghsolanki8@gmail.com**
 
-- Have a look at my<a href="https://my-protfolio-lime.vercel.app/" target="blank">protfolio </a> 
+- Have a look at my<a href="https://my-protfolio-lime.vercel.app/" target="blank"> protfolio  </a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
