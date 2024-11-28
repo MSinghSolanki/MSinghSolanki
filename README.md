@@ -17,7 +17,7 @@
 
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)&nbsp;
 
@@ -27,7 +27,6 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)&nbsp;
 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)&nbsp;
-![AWS SDK](https://img.shields.io/badge/AWS_SDK-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)&nbsp;
 
 ![Kong](https://img.shields.io/badge/Kong-00203F?style=flat&logo=kong&logoColor=white)&nbsp;
@@ -37,14 +36,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)&nbsp;
 ![MongoDb](https://img.shields.io/badge/MongoDb-47A248.svg?style=flat&logo=MongoDb&logoColor=white)&nbsp;
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)&nbsp;
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)&nbsp;
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)&nbsp;
+### **BPMN**
 
+![Camunda](https://img.shields.io/badge/Camunda-4479A1.svg?style=flat&logo=camunda&logoColor=white)&nbsp;
+
+### **Cloud & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)&nbsp;
-![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=flat&logo=githubactions&logoColor=white)&nbsp;
 
 ### **Version Control**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
@@ -153,8 +151,6 @@ My very first web page, crafted with HTML, CSS, and JavaScript, bringing style a
 
 <a href="https://www.linkedin.com/in/mohit-singh-solanki-32602922b/"><img src="https://img.shields.io/badge/Mohit%20Singh%20Solanki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mohitsinghsolanki01@gmail.com"><img src="https://img.shields.io/badge/-mohitsinghsolanki01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-S.K.Murmu-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
-
 
 
 </p>
